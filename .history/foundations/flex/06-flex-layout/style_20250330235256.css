@@ -18,7 +18,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 8px 16px;
+  padding: 8;
 }
 
 input {
@@ -32,28 +32,4 @@ input {
   display: flex;
   justify-content: space-between;
   padding: 16;
-}
-.content{
-  flex: 1;
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  gap: 16px;
-}
-a {
-  color: #666;
-  text-decoration: none;
-}
-
-.footer{
-  background: #eee;
-}
-
-ul{
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  gap: 16px;
 }
