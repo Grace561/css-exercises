@@ -11,7 +11,6 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin-bottom: center;
 }
 
 /* do not edit this footer */
@@ -27,11 +26,5 @@ img {
   background: #eee;
 }
 .container{
-  display: flex;
-  justify-content: center;
-  gap: 52px;
+  
 } 
-
-.info{
-  max-width: 200px;
-}

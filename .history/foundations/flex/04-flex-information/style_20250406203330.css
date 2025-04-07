@@ -11,7 +11,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin-bottom: center;
+  margin-bottom: ce;
 }
 
 /* do not edit this footer */
@@ -31,7 +31,3 @@ img {
   justify-content: center;
   gap: 52px;
 } 
-
-.info{
-  max-width: 200px;
-}

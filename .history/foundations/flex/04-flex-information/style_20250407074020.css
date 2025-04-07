@@ -12,6 +12,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   margin-bottom: center;
+  align-items:
 }
 
 /* do not edit this footer */
@@ -31,7 +32,3 @@ img {
   justify-content: center;
   gap: 52px;
 } 
-
-.info{
-  max-width: 200px;
-}
