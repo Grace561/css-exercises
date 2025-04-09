@@ -22,7 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
   gap: 16px;
-  padding: 16px;
+  padding: 16;
 }
 .icon {
   color: royalblue;
@@ -36,18 +36,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-}
-
-.header{
-  display: flex;
-  align-items:center;
-  justify-content: space-between;
-  font-size: 18px;
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-.text{
-  margin-bottom: 16px;
 }
 
 .close-button {
