@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'poppins',sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000;
+    background:#ffff;
+}
+p{
+    margin-bottom: 15px;
+} 
+
+ul{
+    list-style: none;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+.navbar{
+    background:#1f2937;
+    color:#ffff;
+    height: 60px;
+}
+.Logo{
+    font-size: x-large;
+    font-weight: bold;
+
+}
+.container{
+    display: flex;
+}

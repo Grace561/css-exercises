@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'poppins',sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #000;
+    background:;
+}
+p{
+    margin-bottom: 15px;
+}  
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
